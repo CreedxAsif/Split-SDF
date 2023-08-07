@@ -15,4 +15,4 @@ This repository contains a utility for splitting large SDF (Structure-Data File)
 
 To use the split SDF utility, follow these steps:
 
-1. Clone this repository to your local machine using: https://github.com/CreedxAsif/split_SDF.git
+1. Clone this repository to your local machine using: https://github.com/CreedxAsif/Split_SDF.git
