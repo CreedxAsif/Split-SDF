@@ -23,3 +23,10 @@ To split an SDF file using Split_SDF, follow these steps:
 
 For more information and additional options, run: python split_sdf.py -h
 
+## Acknowledgements
+
+Split_SDF was developed by Mohamed Asif 
+
+Feel free to contribute, report issues, or suggest enhancements by creating a [GitHub Issue](https://github.com/CreedxAsif/Split_SDF/issues) or submitting a pull request.
+
+Happy splitting and analyzing molecules with Split_SDF!
